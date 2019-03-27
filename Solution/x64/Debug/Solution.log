@@ -1,0 +1,13 @@
+﻿  Solution.cpp
+h:\cpp\algorithmpractice\solution\sortfunc.cpp(49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+h:\cpp\algorithmpractice\solution\sortfunc.cpp(92): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+h:\cpp\algorithmpractice\solution\sortfunc.cpp(93): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+h:\cpp\algorithmpractice\solution\sortfunc.cpp(95): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+h:\cpp\algorithmpractice\solution\solution.cpp(14): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  SortFunc.cpp
+h:\cpp\algorithmpractice\solution\sortfunc.cpp(49): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+h:\cpp\algorithmpractice\solution\sortfunc.cpp(92): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+h:\cpp\algorithmpractice\solution\sortfunc.cpp(93): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+h:\cpp\algorithmpractice\solution\sortfunc.cpp(95): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Solution.vcxproj -> H:\CPP\AlgorithmPractice\Solution\x64\Debug\Solution.exe
